@@ -98,5 +98,8 @@ Example:
 - Loops + switch-case for a menu-based UI
 - File I/O to persist data across runs
 
+## PPT (Presentation)
+link it:
+  - [Project Presentation (PPTX)](https://drive.google.com/file/d/1_x-C7lSgAFiiLzl1jxBTb1Taywu9XM0V/view?usp=sharing)
 ## License
 MIT (or choose your preferred license)
